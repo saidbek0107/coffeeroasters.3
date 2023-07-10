@@ -1,0 +1,144 @@
+main {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+    .notes{
+        margin-top: 150px;
+        margin-left: 85px;
+    }
+
+    .main_line {
+        width: 255px;
+        height: 1px;
+        background: #83888F;
+        margin-top: 24px;
+    }
+
+    .note {
+        display: flex;
+        gap: 28.5px;
+    }
+
+    .main_one {
+        color: #1ca19f;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .main_title {
+        color: #8b8b8b;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .note2 {
+        display: flex;
+        gap: 28.5px;
+        margin-top: 24px;
+    }
+
+    .main_two {
+        color: #9d9ea0;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .main_title2 {
+        color: #8b8b8b;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .note3 {
+        display: flex;
+        gap: 28.5px;
+        margin-top: 24px;
+    }
+
+    .main_three {
+        color: #9d9ea0;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .main_title3 {
+        color: #8b8b8b;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .note4 {
+        display: flex;
+        gap: 28.5px;
+        margin-top: 24px;
+    }
+
+    .main_four {
+        color: #9d9ea0;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .main_title4 {
+        color: #8b8b8b;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .note5 {
+        display: flex;
+        gap: 28.5px;
+        margin-top: 24px;
+    }
+
+    .main_five {
+        color: #606060;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .main_title5 {
+        color: #333D4B;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+}

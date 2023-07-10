@@ -1,0 +1,189 @@
+main-wrapper {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container {
+        max-width: 1440px;
+        margin: 0 auto;
+        margin-top: 43.50px;
+    }
+
+
+
+    .drink_title {
+        color: #83888F;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+    }
+
+    .back_cards {
+        margin-top: 56px;
+        display: flex;
+        gap: 23px;
+    }
+
+    .back_card {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #F4F1EB;
+    }
+
+    .back_title {
+        color: #333D4B;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        padding: 28px;
+        margin-top: 22px;
+    }
+
+    .back_text {
+        width: 172px;
+        color: #333D4B;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-left: 28px;
+    }
+
+    .back_card2 {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #0E8784;
+    }
+
+    .back_title2 {
+        color: #FFF;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+    }
+
+    .back_text2 {
+        width: 172px;
+        color: #FEFCF7;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .back_card3 {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #F4F1EB;
+    }
+
+    .back_card0 {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #0E8784;
+    }
+
+    .back_card_2 {
+        width: 228px;
+        height: 250px;
+        border-radius: 8px;
+        background: #F4F1EB;
+    }
+
+
+    .bitmap {
+        width: 730px;
+        height: 208px;
+        background-color: #2C343E;
+        border-radius: 3px;
+        margin-top: 84px;
+    }
+
+    .bitmap_title {
+        width: 172px;
+        color: #9b9b9b;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        text-transform: uppercase;
+
+    }
+
+    .bitmap_text {
+        width: 602px;
+        color: #FFF;
+        font-family: 'Fraunces', serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 40px;
+    }
+
+    .order {
+        padding: 40px;
+        margin-left: 20px;
+
+    }
+
+    .color {
+        color: #0E8784;
+    }
+
+    .plan {
+        border: none;
+        color: #FEFCF7;
+        width: 217px;
+        height: 56px;
+        border-radius: 6px;
+        background: #0E8784;
+        color: #FEFCF7;
+        text-align: center;
+        font-family: 'Fraunces', serif ;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 25px;
+        margin-left: 513px;
+        margin-top: 45px;
+
+    }
+
+    .plan:hover{
+        width: 217px;
+        height: 56px;
+        background-color: rgb(103, 103, 216);
+       
+    }
+
+    .drink_title2 {
+        color: #83888F;
+        font-family: 'Fraunces', serif;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: 88px;
+    }
+
+    .complect{
+        margin-left: 465px;
+        margin-top: -25.50rem;
+    }
+    
+}
